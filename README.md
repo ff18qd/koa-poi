@@ -12,6 +12,7 @@ https://github.com/wclimb/Koa2-blog
 # PostgreSQL
 # https://www.quora.com/How-can-I-install-PostgreSQL-on-AWS-EC2-and-how-can-I-access-that
 # http://revenant.ca/www/postgis/workshop/measurement.html
+# https://gist.github.com/sholloway/4526778
 
 # The task
 
